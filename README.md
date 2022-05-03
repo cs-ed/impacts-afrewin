@@ -2,7 +2,7 @@
 
 Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course.
 
-AP Computer Science Principles is a course tauhgt at Golden Valley High School. It provides an overview of computer science. The course's framework divides the curriculum into five big ideas. They are:
+AP Computer Science Principles is a course taught at Golden Valley High School. It provides an overview of computer science. The course's framework divides the curriculum into five big ideas. They are:
 * Creative Development
 * Data
 * Algorithms and Programming
@@ -17,9 +17,9 @@ This plan will expand on the big idea of *Impact of Computing* and how it will b
 
 Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
 
-The impacts of computers and programs can be wide-ranging, with both intentional and unintentional effects on communitites and economies at large. Students need to investigate different computing innovations while also coming to understand how to contribute to a computing culture that is inclusive, collaborative, safe, and ethical. This big idea does not stand alone and can be integrated throughout the course as it dovetails nicely with the other big ideas of the course (CollegeBoard, 2020).
+The impacts of computers and programs can be wide-ranging, with both intentional and unintentional effects on communities and economies at large. Students need to investigate different computing innovations while also coming to understand how to contribute to a computing culture that is inclusive, collaborative, safe, and ethical. This big idea does not stand alone and can be integrated throughout the course as it dovetails nicely with the other big ideas of the course (CollegeBoard, 2020).
 
-**Enduring Understanding IOC-1:** While computing innovations are typically designed to achieve a specfic purpose, they may have unintended consequences.
+**Enduring Understanding IOC-1:** While computing innovations are typically designed to achieve a specific purpose, they may have unintended consequences.
 * **Topic 5.1:** Beneficial and Harmful Effects
   * **Learning Objective IOC-1.A:** Explain how an effect of a computing innovation can be both beneficial and harmful.
   * **Learning Objective IOC-1.B:** Explain how a computing innovation can have an impact beyond its intended purpose.
@@ -54,7 +54,7 @@ Describe how you plan to assess the learning objectives described above.
 
 ### Outcomes
 
-Describe how your plan will facilitate diversity/equity/inclusion and help broadening participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
+Describe how your plan will facilitate diversity/equity/inclusion and help broaden participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.
 
 ## **References**
 
