@@ -1,5 +1,7 @@
 # Impacts on Society
 
+Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course.
+
 AP Computer Science Principles is a course tauhgt at Golden Valley High School. It provides an overview of computer science. The course's framework divides the curriculum into five big ideas. They are:
 * Creative Development
 * Data
@@ -12,6 +14,8 @@ This plan will expand on the big idea of *Impact of Computing* and how it will b
 ## Plan
 
 ### Learning Objectives
+
+Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
 
 The impacts of computers and programs can be wide-ranging, with both intentional and unintentional effects on communitites and economies at large. Students need to investigate different computing innovations while also coming to understand how to contribute to a computing culture that is inclusive, collaborative, safe, and ethical. This big idea does not stand alone and can be integrated throughout the course as it dovetails nicely with the other big ideas of the course (CollegeBoard, 2020).
 
@@ -39,9 +43,6 @@ As students explore the topics of the Impact of Computing, they will develop the
 * **5.C:** Describe the impact of a computing innovation.
 * **5.D:** Describe the impact of gathering data.
 * **5.E:** Evaluate the use of computing based on legal and ethical factors.
-
-
-Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/
 
 ### Learning Activities
 
