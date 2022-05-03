@@ -58,4 +58,4 @@ Describe how your plan will facilitate diversity/equity/inclusion and help broad
 
 ## **References**
 
-CollegeBoard. 2020. *AP Computer Science Principles: Course and Exam Description*. [https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles]
+CollegeBoard. 2020. *AP Computer Science Principles: Course and Exam Description*. [https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles](https://apcentral.collegeboard.org/pdf/ap-computer-science-principles-course-and-exam-description.pdf?course=ap-computer-science-principles).
