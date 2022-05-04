@@ -21,6 +21,32 @@ The impacts of computers and programs can be wide-ranging, with both intentional
 
 #### CSP Conceptual Framework
 
+As students explore and develop their understanding of the impacts of comuting, they will develop their skills in a variety of Computational Thinking Practices. 
+
+**Computational Thinking Praactice 1:** Computational Solution Design - Design and evaluate computational solutions for a purpose.
+* **Skill 1.C:** Explain how collaboration affects the development of a solution.
+
+**Computational Thinking Practice 5:** Computing Innovations - Investigate computing innovations
+* **Skill 5.C:** Describe the impact of a computing innovation.
+* **Skill 5.D:** Describe the impact of gathering data.
+* **Skill 5.E:** Evaluate the use of computing based on legal and ethical factors.
+
+**Computational Thinking Practice 6:** Responsibly Computing - Contribute to an inclusive, safe, collaborative, and ethical computing culture.
+* **Skill 6.A:** Collaborate in the development of solutions.
+* **Skill 6.B:**  Use safe and secure methods when using computing devices.
+* **Skill 6.C:** Acknowledge the intellectual property of others.
+
+
+
+**Enduring Understanding CRD-1:** Incorporating multiple perspectives through collaboration improves computing
+innovations as they are developed.
+* **Topic 1.1:** Collaboration
+  * **Learning Objective CRD-1.A:** Explain how computing innovations are improved through collaboration.
+  * **Learning Objective CRD-1.B:** Explain how computing innovations are developed by groups of people.
+  * **Learning Objective CRD-1.C:** Demonstrate effective interpersonal skills during collaboration. 
+* **Topic 1.3:** Program Design and Development
+  * **Learning Objective CRD-2.H:** Acknowledge code segments used from other sources.
+
 **Enduring Understanding IOC-1:** While computing innovations are typically designed to achieve a specific purpose, they may have unintended consequences.
 * **Topic 5.1:** Beneficial and Harmful Effects
   * **Learning Objective IOC-1.A:** Explain how an effect of a computing innovation can be both beneficial and harmful.
@@ -40,83 +66,17 @@ The impacts of computers and programs can be wide-ranging, with both intentional
   * **Learning Objective IOC-2.B:** Explain how computing resources can be protected and can be misused.
   * **Learning Objective IOC-2.C:** Explain how unauthorized access to computing resources is gained.
 
-As students explore the topics of the Impact of Computing, they will develop their skills in the following Computational Thinking Practices:
-* **1.C:** Explain how collaboration affects the development of a solution.
-* **5.C:** Describe the impact of a computing innovation.
-* **5.D:** Describe the impact of gathering data.
-* **5.E:** Evaluate the use of computing based on legal and ethical factors.
 
-#### CSTA K-12 CS Standards
 
-**Data & Analysis**
-* **3A-DA-10:** Evaluate the tradeoffs in how data elements are organized and where data is stored.
-
-**Impacts of Computing**
-* **2-IC-20:** Compare tradeoffs associated with computing technologies that affect people's everyday activities and career options.
-* **2-IC-23:** Describe tradeoffs between allowing information to be public and keeping information private and secure.
-* **3A-IC-24:** Evaluate the ways computing impacts personal, ethical, social, economic, and cultural practices.
-* **3A-IC-27:** Use tools and methods for collaboration on a project to increase connectivity of people in different cultures and career fields.
-* **3A-IC-28:** Explain the beneficial and harmful effects that intellectual property laws can have on innovation.
-* **3A-IC-29:** Explain the privacy concerns related to the collection and generation of data through automated processes that may not be evident to users.
-* **3A-IC-30:** Evaluate the social and economic implications of privacy in the context of safety, law, or ethics.
-* **3B-IC-25:** Evaluate computational artifacts to maximize their beneficial effects and minimize harmful effects on society.
-* **3B-IC-26:** Evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society.
-* **3B-IC-27:** Predict how computational innovations that have revolutionized aspects of our culture might evolve.
-* **3B-IC-28:** Debate laws and regulations that impact the development and use of software.
-
-**Networks & the Internet**
-* **3B-NI-03:** Describe the issues that impact network functionality (e.g., bandwidth, load, delay, topology).
-* **3A-NI-05:** Give examples to illustrate how sensitive data can be affected by malware and other attacks.
-* **3A-NI-06:** Recommend security measures to address various scenarios based on factors such as efficiency, feasibility, and ethical impacts.
-* **3A-NI-07:** Compare various security measures, considering tradeoffs between the usability and security of a computer system.
-* **3B-NI-04:** Compare ways software developers protect devices and information from unauthorized access.
 
 ### Learning Activities
 
 *Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?*
 
-**Personal Innovations Activity:** 
-*Adapted from the code.org course for Computer Science Principles, [Unit 1, Lesson 1](https://studio.code.org/s/csp1-2021/lessons/1)*
-* *CSP Computational Thinking Practice Skill:* 5.C
-* *CSTA Standard:* 3B-IC-27
-* *Objectives:* Students will be able to:
- * Communicate with classmates about computing innovations in their lives.
- * Describe positive and negative effects of computing innovations.
-* Activity:
- * In groups, students each identify an area of interest. For each area, the group identifies how technology is impacted by or related to those interests. The group then identifies problems or aspects of each interest that technology might help improve or solve. Finally, the group chooses the one idea they feel would be most interesting to their classmates and create a rapid prototype of that idea on a vertical whiteboard, a quick visual representation to convey their chosen idea.
- * Each group will then complete a gallery walk of the other groups' work, adding sticky notes with comments.
- * Finish the activity with a class discussion of what they saw on their gallery walks.
- * Note: Prior to removing sticky notes and erasing the white boards, have each group submit a photograph of their rapid prototypes.
 
-**Intellectual Property Lesson:** 
-*Adapted from the code.org course for Computer Science Principles, [Unit 1, Lesson 11](https://studio.code.org/s/csp1-2021/lessons/11)*
-* *CSP Learning Objective:* IOC-1.F
-* *CSTA Standard:* 3A-IC-28
-* *Objectives:* Students will be able to:
-  * Argue if current copyright laws are helping or harming society using evidence from an article.
-  * Explain how copyright and Creative Commons Licenses can be applied to digital works of creativity.
-* Warm-Up:
-  *  Have students answer a prompt about intelletual property: "Imagine you were using some of our pixelation tools to create an image and you posted it online for your friends to see - but, a week later you find out someone took that image and put it on a T-shirt that they’re selling for $10 each. How would you feel in this situation?"
-  *  Discuss student responses, with a goal of showing the complications of the topic. Consider asking students guiding questions similar to:
-    * If you are given credit for the drawing on the T-shirt, is it more or less okay?
-    * What if this happened 20 years after you posted the image instead of one week? Does that change anything?
-    * If the image is converted to a binary number using the pixelation widget, can someone really own a number?
-  * Ensure that students understand that materials created on a computer are considered intellectual property, owned by the person who created them. It is plagiarism to use something without the creator's permission, and possibly illegal.
-* Activity:
-  * Have students read an article, *[Fortnite Stealing Dance Moves](https://drive.google.com/file/d/1zs-d_4L53qgPCtdg1e9Gw00QMx8NQpt0/view)*.
-  * Students should mark the text with any information they want to know about. Then they should write a 10-word summary of the article.
-  * Have a class discussion regarding what questions the students have about copyright, based on the reading and their past experiences.
-  * Show three videos about copyright and creative commons:
-    * [Copyright Overview](https://www.youtube.com/watch?v=GPNWvU_IphU)
-    * [Copyright in Practice](https://www.youtube.com/watch?v=ITASCSxnBqw)
-    * [Creative Commons Copyright](https://www.youtube.com/watch?v=wC-m23T7cPM)
-  * Have students re-read the article, looking for answers to the following questions:
-    * What was digitized?
-    * Why was it digitizes?
-    * Is someone benefiting from this situation? If so, who?
-    * Is someone being harmed in this situation? If so, who?
-    * Are these impacts intended or unintended? How do you know?
-   * Discuss what the students annotated. 
+
+**Personal Innovations Activity:** 
+
 
 
 
@@ -127,6 +87,8 @@ As students explore the topics of the Impact of Computing, they will develop the
 ### Assessment
 
 *Describe how you plan to assess the learning objectives described above.*
+
+The Impact of Computing accounts for 21-26% of the AP Exam. On the end-of-course exam, students will receive one reading passage about a computing innovation. Students then need to answer five questions about data and the effects of the computing innovation. To this end, it is beneficial to the students to investigate a range of computing innovations throughout the course. Additionally, 
 
 ### Outcomes
 
