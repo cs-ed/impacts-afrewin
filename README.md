@@ -33,10 +33,8 @@ As students explore and develop their understanding of the impacts of comuting, 
 
 **Computational Thinking Practice 6:** Responsibly Computing - Contribute to an inclusive, safe, collaborative, and ethical computing culture.
 * **Skill 6.A:** Collaborate in the development of solutions.
-* **Skill 6.B:**  Use safe and secure methods when using computing devices.
+* **Skill 6.B:** Use safe and secure methods when using computing devices.
 * **Skill 6.C:** Acknowledge the intellectual property of others.
-
-
 
 **Enduring Understanding CRD-1:** Incorporating multiple perspectives through collaboration improves computing
 innovations as they are developed.
@@ -65,9 +63,6 @@ innovations as they are developed.
   * **Learning Objective IOC-2.A:** Describe the risks to privacy from collecting and storing personal data on a computer system.
   * **Learning Objective IOC-2.B:** Explain how computing resources can be protected and can be misused.
   * **Learning Objective IOC-2.C:** Explain how unauthorized access to computing resources is gained.
-
-
-
 
 ### Learning Activities
 
