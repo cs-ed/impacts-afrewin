@@ -33,7 +33,7 @@ The impacts of computers and programs can be wide-ranging, with both intentional
 * **Skill 5.D:** Describe the impact of gathering data.
 * **Skill 5.E:** Evaluate the use of computing based on legal and ethical factors.
 
-**Computational Thinking Practice 6:** Responsibly Computing - Contribute to an inclusive, safe, collaborative, and ethical computing culture. *Note: These skills are not assessed on the AP Exam.**
+**Computational Thinking Practice 6:** Responsibly Computing - Contribute to an inclusive, safe, collaborative, and ethical computing culture. *Note: These skills are not assessed on the AP Exam.*
 * **Skill 6.A:** Collaborate in the development of solutions.
 * **Skill 6.B:** Use safe and secure methods when using computing devices.
 * **Skill 6.C:** Acknowledge the intellectual property of others.
@@ -70,6 +70,13 @@ innovations as they are developed.
 
 *Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?*
 
+**Computing Innovations Activities**
+Students should investigate computing innovations a minimum of three times prior to the AP Exam in May. When presented with a computing innovation, students should analyze a number of aspects of that innovation:
+* What data is used to complete the task involved
+* How that data is secured, stored, accessed, and kept private as appropriate
+* How society, the economy, or culture is affected, whether good or ill
+
+
 
 
 **Personal Innovations Activity:** 
@@ -85,7 +92,7 @@ innovations as they are developed.
 
 *Describe how you plan to assess the learning objectives described above.*
 
-The Impact of Computing accounts for 21-26% of the AP Exam. On the end-of-course exam, students will receive one reading passage about a computing innovation. Students then need to answer five questions about data and the effects of the computing innovation. To this end, it is beneficial to the students to investigate a range of computing innovations throughout the course. Additionally, 
+Topics in the big idea *Impact of Computing* account for 21-26% of the AP Exam score. On the end-of-course exam, students will receive one reading passage about a computing innovation. Students then need to answer five questions about data and the effects of the computing innovation. To this end, it is beneficial to the students to investigate a range of computing innovations throughout the course. Additionally, 
 
 ### Outcomes
 
