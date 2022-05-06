@@ -70,20 +70,13 @@ innovations as they are developed.
 
 *Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?*
 
+Beginning of Year
+
 **Computing Innovations Activities**
 Students should investigate computing innovations a minimum of three times prior to the AP Exam in May. When presented with a computing innovation, students should analyze a number of aspects of that innovation:
 * What data is used to complete the task involved
 * How that data is secured, stored, accessed, and kept private as appropriate
 * How society, the economy, or culture is affected, whether good or ill
-
-
-
-
-**Personal Innovations Activity:** 
-
-
-
-
 
 [TechNews](https://technews.acm.org/) Website: Archive of articles about computer science, information technology, and related science, society, and technology news
 
