@@ -1,29 +1,31 @@
 # Impacts on Society
 
-*Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course.*
+AP Computer Science Principles is a course taught at Golden Valley High School. It provides an overview of computer science. The course's Conceptual Framework divides the curriculum into five big ideas. Additionally, the framework includes six Computational Thinking Practices that are the assessed on tasks on the AP Exam. Each learning objective in the course is aligned to the skills in the practices.
 
-AP Computer Science Principles is a course taught at Golden Valley High School. It provides an overview of computer science. The course's Conceptual Framework divides the curriculum into five big ideas. They are:
-* Creative Development
-* Data
-* Algorithms and Programming
-* Computer Systems and Networks
-* Impact of Computing
+**Big Ideas:**
+1. Creative Development
+2. Data
+3. Algorithms and Programming
+4. Computer Systems and Networks
+5. Impact of Computing
 
-This plan will expand on the big idea of *Impact of Computing* and how it will be incorporated into the course. The plan also includes the ways Golden Valley will seek to build up the computer science enrollment by recruiting students who are traditionally underrepresented in computer science. 
+**Computational Thinking Practices:**
+1. Computational Solution Design
+2. Algorithms and Program Development
+3. Abstraction in Program Development
+4. Code Analysis
+5. Computing Innovations
+6. Responsible Computing
+
+This plan will expand on the essential understandings and skills students should develop through the course, focusing on the impacts of computing on society. Additionally, this plan will outline how students in the course can help build a computing culture that is safe and welcoming for all students, even those who are traditionally underrepresented in computer science. 
 
 ## Plan
 
-### Learning Objectives
+### Learning Objectives and Skills
 
-*Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/*
+The impacts of computers and programs can be wide-ranging, with both intentional and unintentional effects on communities and economies at large. Students need to investigate different computing innovations while also coming to understand how to contribute to a computing culture that is inclusive, collaborative, safe, and ethical. This big idea does not stand alone and should be integrated throughout the course as it dovetails nicely with the other big ideas of the course (CollegeBoard, 2020).
 
-The impacts of computers and programs can be wide-ranging, with both intentional and unintentional effects on communities and economies at large. Students need to investigate different computing innovations while also coming to understand how to contribute to a computing culture that is inclusive, collaborative, safe, and ethical. This big idea does not stand alone and can be integrated throughout the course as it dovetails nicely with the other big ideas of the course (CollegeBoard, 2020).
-
-#### CSP Conceptual Framework
-
-As students explore and develop their understanding of the impacts of comuting, they will develop their skills in a variety of Computational Thinking Practices. 
-
-**Computational Thinking Praactice 1:** Computational Solution Design - Design and evaluate computational solutions for a purpose.
+**Computational Thinking Practice 1:** Computational Solution Design - Design and evaluate computational solutions for a purpose.
 * **Skill 1.C:** Explain how collaboration affects the development of a solution.
 
 **Computational Thinking Practice 5:** Computing Innovations - Investigate computing innovations
@@ -31,7 +33,7 @@ As students explore and develop their understanding of the impacts of comuting, 
 * **Skill 5.D:** Describe the impact of gathering data.
 * **Skill 5.E:** Evaluate the use of computing based on legal and ethical factors.
 
-**Computational Thinking Practice 6:** Responsibly Computing - Contribute to an inclusive, safe, collaborative, and ethical computing culture.
+**Computational Thinking Practice 6:** Responsibly Computing - Contribute to an inclusive, safe, collaborative, and ethical computing culture. *Note: These skills are not assessed on the AP Exam.**
 * **Skill 6.A:** Collaborate in the development of solutions.
 * **Skill 6.B:** Use safe and secure methods when using computing devices.
 * **Skill 6.C:** Acknowledge the intellectual property of others.
