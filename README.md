@@ -178,10 +178,10 @@ In an effort to inspire more students to enroll in the course (and other compute
   * Have inspirational computer science videos playing on a loop.
   * Have different examples of student projects available for students and parents to see.
 5. Show the Code.org [What is Computer Science Principles?](https://youtu.be/jQm0z894CG0) video to students (late January/early February).
-  * Coordinate with the Media teacher to show the viideo during the daily GVTV bulletin during the time period that students are signing up for classes.
+  * Coordinate with the Media teacher to show the video during the daily GVTV bulletin during the time period that students are signing up for classes.
 6. Form a chapter of the Computer Science Honor Society on campus, with a focus on equity, service, and excellence.
   * Apply to form a new local charter in the spring/summer. 
-  * Hold an induction ceremony for new members should be held annually in the fall.
+  * Hold an induction ceremony for new members in the fall.
   * Hold at least one service project each semester.
   * Reach out to the community to find partners that can offer experiential learning opportunities.
   * Complete an annual report to submit to CSTA.
