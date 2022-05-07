@@ -1,7 +1,5 @@
 # Impacts on Society
 
-*Describe your course including the name, description, and grade level. Broadly explain how this document details how you plan to incorporate issues of computing impacts on society in your course.*
-
 AP Computer Science Principles is a course taught at Golden Valley High School. It provides an overview of computer science. The course's Conceptual Framework divides the curriculum into five big ideas. Additionally, the framework includes six Computational Thinking Practices that are the assessed on tasks on the AP Exam. Each learning objective in the course is aligned to the skills in the practices.
 
 **Big Ideas:**
@@ -25,8 +23,6 @@ This plan will expand on the essential understandings and skills students should
 ## Plan
 
 ### Learning Objectives and Skills
-
-*Describe the learning objectives for the class that relate to social impacts. Consider using Bloom's Taxonomy to identify the types of cognitive and/or affective outcomes (and their associated verbs): https://bloomstaxonomy.net/*
 
 The impacts of computers and programs can be wide-ranging, with both intentional and unintentional effects on communities and economies at large. Students need to investigate different computing innovations while also coming to understand how to contribute to a computing culture that is inclusive, collaborative, safe, and ethical. This big idea does not stand alone and should be integrated throughout the course as it dovetails nicely with the other big ideas of the course (CollegeBoard, 2020).
 
@@ -73,8 +69,6 @@ The impacts of computers and programs can be wide-ranging, with both intentional
 
 
 ### Learning Activities
-
-*Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?*
 
 All learning activities for the year should be designed using the principles of Universal Design for Learning (UDL) to ensure an equitable learning experience for all students. The learning experiences need to be student-centered, relevant to the students' lives, offerring authentic choice and ways to incorporate the students' own backgrounds and interests. The activities should afford students opportunities to express their own creativity and to create solutions that solve personally relevant problems. 
 
@@ -146,8 +140,6 @@ This activity should happen after the students have had an opportunity to comple
 
 ### Assessment
 
-*Describe how you plan to assess the learning objectives described above.*
-
 The overall goal of taking an Advanced Placement course is to pass the AP Exam in May. Approximately 21-26% of the score for AP Computer Science Principles comes from the topics in the big idea of *Impact of Computing*. 
 
 The majority of assessments in the AP Computer Science course are formative in nature. Students need to be willing to try new things and to learn from their mistakes. Most of the assignments through the year are graded on a rubric, whether a 4-point rubric or a single-point rubric. If a student doesn't score well on an outcome of the rubric, they may revise and resubmit the assignment.
@@ -158,8 +150,6 @@ An analysis of the AP scores (available mid-summer) will be helpful to adjust an
 
 
 ### Outcomes
-
-*Describe how your plan will facilitate diversity/equity/inclusion and help broaden participation in computing. Also describe how the course plan will help long-term goals in addressing computing impacts on society.*
 
 AP Computer Science Principles focuses on "creative problem solving and real-world applications to better prepare [students] for college and career" (CollegeBoard, 2022). With a continual focus on computer science in the real world and the impact of computing innovations, students should be well able to articulate computing's impact on society, the economy, and culture. In turn, students can begin to view the world around them critically, brainstorming and planning solutions to the problems they see in their own lives and community, ever mindful of the need to be inclusive and unbiased. 
 
