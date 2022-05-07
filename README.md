@@ -131,12 +131,12 @@ Additional articles may be accessed via the TechNews [website](https://technews.
 **Policy Proposal Activity**
 1. *Research:*
   * Have students choose a technological dilemma to research
-  * Students need to determine:
-    * What the dilemma entails
-    * Which groups of people are impacted by the issue
-    * What the interests of each impacted group are
-    * How each impacted group either benefits or is harmed by the dilemma
-    * The technical background necessary to understand the problem
+    * Students need to determine:
+      * What the dilemma entails
+      * Which groups of people are impacted by the issue
+      * What the interests of each impacted group are
+      * How each impacted group either benefits or is harmed by the dilemma
+      * The technical background necessary to understand the problem
 2. *Recommended Policy Solution:*
   * Students should give a recommendation for a policy or solution to advocate for. This could be a law that needs to be passed or repealed, a government policy that needs to be enforced, a technological solution that should be promoted.
   * The recommendation itself should be at most two sentences, accompanied by a list of the pros and cons if the policy is enacted.
