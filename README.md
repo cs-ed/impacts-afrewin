@@ -87,7 +87,7 @@ Communication is vital to establishing a computing culture in the classroom. Stu
 2. *Video (or Poster or Article):*
   * Show the video to the students.
 3. *CS Journal:*
-  * Have students answer prompts about the hero, which can include:
+    * Have students answer prompts about the hero, which can include:
       * What problem is [the hero's name] solving?
       * How was computer science used in the solution?
       * What possible issues might this [solution/application/computing] create?
