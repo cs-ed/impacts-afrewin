@@ -21,6 +21,7 @@ AP Computer Science Principles is a course taught at Golden Valley High School. 
 
 This plan will expand on the essential understandings and skills students should develop through the course, focusing on the impacts of computing on society. Additionally, this plan will outline how students in the course can help build a computing culture that is safe and welcoming for all students, even those who are traditionally underrepresented in computer science. 
 
+
 ## Plan
 
 ### Learning Objectives and Skills
@@ -29,24 +30,12 @@ This plan will expand on the essential understandings and skills students should
 
 The impacts of computers and programs can be wide-ranging, with both intentional and unintentional effects on communities and economies at large. Students need to investigate different computing innovations while also coming to understand how to contribute to a computing culture that is inclusive, collaborative, safe, and ethical. This big idea does not stand alone and should be integrated throughout the course as it dovetails nicely with the other big ideas of the course (CollegeBoard, 2020).
 
-**Computational Thinking Practice 1:** Computational Solution Design - Design and evaluate computational solutions for a purpose.
-* **Skill 1.C:** Explain how collaboration affects the development of a solution.
-
-**Computational Thinking Practice 5:** Computing Innovations - Investigate computing innovations
-* **Skill 5.C:** Describe the impact of a computing innovation.
-* **Skill 5.D:** Describe the impact of gathering data.
-* **Skill 5.E:** Evaluate the use of computing based on legal and ethical factors.
-
-**Computational Thinking Practice 6:** Responsibly Computing - Contribute to an inclusive, safe, collaborative, and ethical computing culture. *Note: These skills are not assessed on the AP Exam.*
-* **Skill 6.A:** Collaborate in the development of solutions.
-* **Skill 6.B:** Use safe and secure methods when using computing devices.
-* **Skill 6.C:** Acknowledge the intellectual property of others.
+***CSP Conceptual Framework: Responsible Computing & Impact of Computing***
 
 **Enduring Understanding CRD-1:** Incorporating multiple perspectives through collaboration improves computing innovations as they are developed.
 * **Topic 1.1:** Collaboration
   * **Learning Objective CRD-1.A:** Explain how computing innovations are improved through collaboration.
   * **Learning Objective CRD-1.B:** Explain how computing innovations are developed by groups of people.
-  * **Learning Objective CRD-1.C:** Demonstrate effective interpersonal skills during collaboration. 
 * **Topic 1.3:** Program Design and Development
   * **Learning Objective CRD-2.H:** Acknowledge code segments used from other sources.
 
@@ -69,6 +58,20 @@ The impacts of computers and programs can be wide-ranging, with both intentional
   * **Learning Objective IOC-2.B:** Explain how computing resources can be protected and can be misused.
   * **Learning Objective IOC-2.C:** Explain how unauthorized access to computing resources is gained.
 
+**Computational Thinking Practice 1:** Computational Solution Design - Design and evaluate computational solutions for a purpose.
+* **Skill 1.C:** Explain how collaboration affects the development of a solution.
+
+**Computational Thinking Practice 5:** Computing Innovations - Investigate computing innovations
+* **Skill 5.C:** Describe the impact of a computing innovation.
+* **Skill 5.D:** Describe the impact of gathering data.
+* **Skill 5.E:** Evaluate the use of computing based on legal and ethical factors.
+
+**Computational Thinking Practice 6:** Responsibly Computing - Contribute to an inclusive, safe, collaborative, and ethical computing culture. *Note: These skills are not assessed on the AP Exam.*
+* **Skill 6.A:** Collaborate in the development of solutions.
+* **Skill 6.B:** Use safe and secure methods when using computing devices.
+* **Skill 6.C:** Acknowledge the intellectual property of others.
+
+
 ### Learning Activities
 
 *Describe the learning activities and how they will be incorporated into the class. For example, will they include class discussion, written reports, homework, or exams? Will the activity be a one-time lesson or used multiple times in class?*
@@ -77,20 +80,21 @@ All learning activities for the year should be designed using the principles of 
 
 Communication is vital to establishing a computing culture in the classroom. Students will help each other progress through the concepts by actively participating in discussions, giving peer feedback to each other, and sharing their personal reflections. The goal is to build the students' capacity to observe the world around them, create their own questions about the problems they see, develop their own solutions to said questions and problems, and analyze their own work for possible issues and/or improvements. 
 
+
 **CS Heroes Warm-Ups**
-1. *Select one CSTA CS Hero*
+1. *CSTA CS Hero:*
   * Choose one hero to highlight; the heroes can be found at the bottom of the [CSEDWeek website](https://www.csedweek.org/teach).
-2. *Video (or Poster or Article)*
+2. *Video (or Poster or Article):*
   * Show the video to the students.
-3. *CS Journal*
+3. *CS Journal:*
   * Have students answer prompts about the hero, which can include:
     * What problem is [the hero's name] solving?
     * How was computer science used in the solution?
     * What possible issues might this [solution/application/computing] create?
     * Are there other ways we could use this [solution/application/computing] to solve problems in the world?
-4. *Pair-Share*
+4. *Pair-Share:*
   * Have students share their responses with their partner.
-5. *Class Discussion*
+5. *Class Discussion:*
   * Discuss the students' answers to the prompts.
 
 There are enough CS heroes identified by CSTA that this warm-up can be used every two weeks or so, allowing students to have exposure to a variety of computing innovations and real-world solutions.
@@ -125,23 +129,33 @@ Additional articles may be accessed via the TechNews [website](https://technews.
 
     
 **Policy Proposal Activity**
+1. *Research:*
+  * Have students choose a technological dilemma to research
+  * Students need to determine:
+    * What the dilemma entails
+    * Which groups of people are impacted by the issue
+    * What the interests of each impacted group are
+    * How each impacted group either benefits or is harmed by the dilemma
+    * The technical background necessary to understand the problem
+2. *Recommended Policy Solution:*
+  * Students should give a recommendation for a policy or solution to advocate for. This could be a law that needs to be passed or repealed, a government policy that needs to be enforced, a technological solution that should be promoted.
+  * The recommendation itself should be at most two sentences, accompanied by a list of the pros and cons if the policy is enacted.
 
-
-
-
-Students should investigate computing innovations a minimum of three times prior to the AP Exam in May. When presented with a computing innovation, students should analyze a number of aspects of that innovation:
-* What data is used to complete the task involved
-* How that data is secured, stored, accessed, and kept private as appropriate
-* How society, the economy, or culture is affected, whether good or ill
-
-
+This activity should happen after the students have had an opportunity to complete the Position Statement activity a number of times. It allows students to progress past an identification of the impacts of computing to proposing viable solutions to helping mitigate the issues that happen. Possible dilemmas to research include net neutrality, the digital divide, internet censorship and more.
 
 
 ### Assessment
 
 *Describe how you plan to assess the learning objectives described above.*
 
-Topics in the big idea *Impact of Computing* account for 21-26% of the AP Exam score. On the end-of-course exam, students will receive one reading passage about a computing innovation. Students then need to answer five questions about data and the effects of the computing innovation. To this end, it is beneficial to the students to investigate a range of computing innovations throughout the course. Additionally, 
+The overall goal of taking an Advanced Placement course is to pass the AP Exam in May. Approximately 21-26% of the score for AP Computer Science Principles comes from the topics in the big idea of *Impact of Computing*. 
+
+The majority of assessments in the AP Computer Science course are formative in nature. Students need to be willing to try new things and to learn from their mistakes. Most of the assignments through the year are graded on a rubric, whether a 4-point rubric or a single-point rubric. If a student doesn't score well on an outcome of the rubric, they may revise and resubmit the assignment.
+
+There will be periodic multiple choice assessments to help prepare students for the AP test format. Students will be allowed to do test corrections, explaining why their selected choice was incorrect and why the correct answer choice should have been selected. Again, the goal is to help students reach a mastery of the concepts, not to penalize their mistakes.
+
+An analysis of the AP scores (available mid-summer) will be helpful to adjust and refine the curriculum for the following school year.
+
 
 ### Outcomes
 
