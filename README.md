@@ -1,6 +1,6 @@
 # Impacts on Society
 
-AP Computer Science Principles is a course taught at Golden Valley High School. It provides an overview of computer science. The course's Conceptual Framework divides the curriculum into five big ideas. Additionally, the framework includes six Computational Thinking Practices that are the assessed on tasks on the AP Exam. Each learning objective in the course is aligned to the skills in the practices.
+AP Computer Science Principles is a course taught at Golden Valley High School. It provides an overview of computer science. The course's Conceptual Framework divides the curriculum into five big ideas. Additionally, the framework includes six Computational Thinking Practices that are then assessed on tasks on the AP Exam. Each learning objective in the course is aligned to the skills in the practices.
 
 **Big Ideas:**
 1. Creative Development
@@ -70,7 +70,7 @@ The impacts of computers and programs can be wide-ranging, with both intentional
 
 ### Learning Activities
 
-All learning activities for the year should be designed using the principles of Universal Design for Learning (UDL) to ensure an equitable learning experience for all students. The learning experiences need to be student-centered, relevant to the students' lives, offerring authentic choice and ways to incorporate the students' own backgrounds and interests. The activities should afford students opportunities to express their own creativity and to create solutions that solve personally relevant problems. 
+All learning activities for the year should be designed using the principles of Universal Design for Learning (UDL) to ensure an equitable learning experience for all students. The learning experiences need to be student-centered, relevant to the students' lives, offering authentic choice and ways to incorporate the students' own backgrounds and interests. The activities should afford students opportunities to express their own creativity and to create solutions that solve personally relevant problems. 
 
 Communication is vital to establishing a computing culture in the classroom. Students will help each other progress through the concepts by actively participating in discussions, giving peer feedback to each other, and sharing their personal reflections. The goal is to build the students' capacity to observe the world around them, create their own questions about the problems they see, develop their own solutions to said questions and problems, and analyze their own work for possible issues and/or improvements. 
 
@@ -163,7 +163,7 @@ In an effort to inspire more students to enroll in the course (and other compute
   * Code.org offers a free [event kit](http://www.familycodenight.org/get-started.html). The kit includes all materials needed to organize, promote, and hold the event.
 3. Work with leadership and the activities director to adopt CSEdWeek (first week in December). 
   * Highlight a different Computer Science Hero each day on the GVTV bulletin.
-  * Develop daily lunch activities that leadership students can help run. These may include short "unplugged" coding tasks, games, or simiilar. 
+  * Develop daily lunch activities that leadership students can help run. These may include short "unplugged" coding tasks, games, or similar. 
 4. Promote computer science at the annual Course Fair (late January).
   * Have inspirational computer science videos playing on a loop.
   * Have different examples of student projects available for students and parents to see.
